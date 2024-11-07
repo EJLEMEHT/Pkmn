@@ -1,0 +1,13 @@
+BASIC
+Pikachu
+200
+LIGHTNING
+NULL
+1/Tail Whap/20,2L/Thunderbolt/100
+FIGHTING
+NULL
+1
+Fusion Strike
+E
+Gadzhiev Maksim Eduardovich
+86
